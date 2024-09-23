@@ -1,0 +1,54 @@
+* {
+    font-family: sans-serif;
+    background-color: #fff6df;
+}
+
+.main-page {
+    text-align: center;
+}
+
+.main-page li {
+    list-style-type: none;
+    margin-bottom: 12px;
+}
+
+.main-page a {
+    color: brown;
+    font-size: 22px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.recipe {
+    text-align: center;
+}
+
+.voltar-inicio {
+    text-decoration: none;
+    color: brown;
+}
+
+.lista-igredientes,
+.preparo {
+    list-style-position: inside;
+}
+
+.lista-igredientes li {
+    margin-bottom: 12px;
+}
+
+.preparo li {
+    margin-bottom: 8px;
+}
+
+.outras-receitas a {
+    color: brown;
+}
+
+.outras-receitas li {
+    list-style-type: none;
+    margin-bottom: 8px;
+}
